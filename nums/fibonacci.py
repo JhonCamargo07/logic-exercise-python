@@ -1,5 +1,5 @@
 """
-Dado un natural, determinar si es un número de Fibonacci o no.
+Dadiboo un natural, determinar si es un número de Fnacci o no.
 """
 
 
