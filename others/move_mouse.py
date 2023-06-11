@@ -9,6 +9,6 @@ while True:
     position_fin = pag.position()
     print(f"Posición actual del mouse: x={position_fin[0]}, y={position_fin[1]}")
     if position_ini == position_fin:
-        x = position_fin[0] + 1  # Mover 1 píxel a la derecha
+        x = position_fin[0] + 2  # Mover 1 píxel a la derecha
         y = position_fin[1] + 1  # Mover 1 píxel hacia abajo
         pag.move(x, y, duration=0.1)
